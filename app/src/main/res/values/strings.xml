@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pin UP Winner</string>
+    <string name="euro">Euro</string>
+    <string name="enter_the_amount">Enter the amount</string>
+    <string name="pin_up_winner">Pin UP Winner</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="convert_to">Convert to</string>
+    <string name="convert_from">Convert from</string>
+    <string name="convert_currency">Convert Currency</string>
+    <string name="inputsumm">Введите сумму</string>
+    <string name="resultofconversion">resultOfConversion</string>
+</resources>
